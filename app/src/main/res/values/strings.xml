@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="app_title">Soccer Team Manager</string>
+    <string name="name_hint">Please Enter Your Name</string>
+    <string name="name_label">Team Name</string>
+    <string name="zip_hint">Please Enter Your ZIP Code</string>
+    <string name="zip_label">ZIP Code</string>
+    <string name="button_text">Open In Google Maps</string>
+    <string name="new_avatar_title">Select a New Avatar</string>
+    <string name="button_text2">Upload Image From Phone</string>
+
+
+</resources>
